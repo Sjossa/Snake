@@ -1,6 +1,6 @@
 NAME = Snake
 
-SRCS = main.c evenement.c
+SRCS = main.c evenement.c position.c 
 
 OBJS = $(SRCS:.c=.o)
 
